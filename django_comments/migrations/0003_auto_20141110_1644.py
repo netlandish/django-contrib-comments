@@ -7,7 +7,7 @@ from django.db import models, migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('django_comments', '0001_initial'),
+        ('django_comments', '0002_update_user_email_field_length'),
     ]
 
     operations = [
